@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of ganuonglachanh/flarum-ext-search.** Not for installation: use [Packagist](https://packagist.org/packages/ganuonglachanh/flarum-ext-search) or the [upstream repository](https://github.com/ganuonglachanh/flarum-ganuonglachanh-search).
 
-**0** versions archived · Latest: [`0.5.2`](https://github.com/flarchive/ganuonglachanh-flarum-ext-search/tree/archive/v0.5.2) · License: `MIT` · Flarum: `>=1.0`
+**4** versions archived · Latest: [`0.5.2`](https://github.com/flarchive/ganuonglachanh-flarum-ext-search/tree/archive/v0.5.2) · License: `MIT` · Flarum: `>=1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3` | 2017-07-01 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ganuonglachanh-flarum-ext-search/tree/archive/v0.3) |
+| `0.4` | 2018-04-09 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ganuonglachanh-flarum-ext-search/tree/archive/v0.4) |
+| `0.5.1` | 2021-08-30 | `>=1.0` | [Browse](https://github.com/flarchive/ganuonglachanh-flarum-ext-search/tree/archive/v0.5.1) |
+| `0.5.2` | 2023-02-11 | `>=1.0` | [Browse](https://github.com/flarchive/ganuonglachanh-flarum-ext-search/tree/archive/v0.5.2) |
 
 Catalog entry: [packages/ganuonglachanh-flarum-ext-search.json](https://github.com/flarchive/archive-index/blob/main/packages/ganuonglachanh-flarum-ext-search.json)
 
